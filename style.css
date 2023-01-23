@@ -104,7 +104,7 @@ transform: translate(-50%, -50%);
   border-radius:0.7rem;
   }
 
-.nft_id h2, .nft_eth_data{
+.nft_card_id h2, .nft_eth_data{
   margin:1.5rem 0;
 }
 .nft_eth_data span:nth-child(1){
@@ -145,6 +145,6 @@ transform: translate(-50%, -50%);
 
 /* hover state  */
 
-.nft_id h2 a:hover, .about_nft_creator a:hover{
+.nft_card_id h2 a:hover, .about_nft_creator a:hover{
 color:var(--Cyan);
 }
